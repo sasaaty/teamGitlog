@@ -1,3 +1,3 @@
 ## teamGitlog
-# NIGGA
+# HELLO GIT
 ## Alyssa
